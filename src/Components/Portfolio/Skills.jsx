@@ -73,7 +73,7 @@ function Page3() {
         <div className="text-center">
           <div className="d-flex flex-wrap justify-content-around">
             <Image3DTilt src="html.png" alt="HTML" />
-            <Image3DTilt src="css.png" alt="CSS" />
+            <Image3DTilt src="CSS.png" alt="CSS" />
             <Image3DTilt src="bootstrap.png" alt="Bootstrap" />
             <Image3DTilt src="js.png" alt="JavaScript" />
             <Image3DTilt src="react.png" alt="React" />
