@@ -1,7 +1,5 @@
 # [🌐 Personal Portfolio Website](https://rajarshi42.github.io/MyPortfolio)
 
----
-
 ## 📸 Preview
 ![Portfolio Preview](https://github.com/Rajarshi42/MyPortfolio/blob/main/public/mainpage.png)  
 
