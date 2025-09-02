@@ -25,8 +25,8 @@ The site also includes a **contact form with validation**, providing visitors wi
 - **Hosting:** GitHub Pages  
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?logo=bootstrap)
-![CSS](https://img.shields.io/badge/CSS-5-blue)
-![HTML](https://img.shields.io/badge/HTML-6-orange)
+![CSS](https://img.shields.io/badge/CSS-5-blue?logo=css)
+![HTML](https://img.shields.io/badge/HTML-6-orange?logo=html)
 ---
 
 ## 📬 Contact
