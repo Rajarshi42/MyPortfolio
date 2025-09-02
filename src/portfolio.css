@@ -1,0 +1,184 @@
+.logo {
+    background-image: url('../public/gallery1.jpg');
+    background-size: inherit;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.page-1,
+.page-2,
+.page-3,
+.page-4 {
+
+    background-image: url('../public/bgImg-5.png') ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+}
+
+.btn-gradient:hover {
+    backdrop-filter: blur(95%);
+    box-shadow: 0px 0px 30px rgba(13, 14, 13, 0.37);
+    border: 2px solid rgba(255, 255, 255, 0.18);
+    border-radius:50%;
+}
+
+
+.navBarBlur {
+    border-radius: 15px;
+    margin-top: 10px;
+    width: 100% ;
+    position: fixed;
+    
+    backdrop-filter: blur(30px);
+    box-shadow: 0px 0px 30px rgba(227, 228, 237, 0.37);
+    border: 0px solid rgba(255, 255, 255, 0.18);
+}
+
+.glass-hero {
+    padding: 20px;
+    padding-top: 20px;
+    margin-top: 80px;
+    /* backdrop-filter: blur(10px);
+    box-shadow: 0px 0px 30px rgba(89, 187, 226, 0.37);
+    border: 0px solid rgba(255, 255, 255, 0.18); */
+}
+
+.glass-about,.glass-project,.glass-contact {
+    padding: 40px;
+    width: 100%;
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 0px 30px rgba(102, 200, 230, 0.37);
+    border: 0px solid rgba(255, 255, 255, 0.18);
+}
+
+.about-img {
+    border-radius: 75px;
+    box-shadow: 2px 3px 10px;
+}
+
+.about-btn {
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    box-shadow: 0px 8px 32px rgba(0, 0, 0, 0.37);
+    width: 50%;
+}
+
+.nav-link {
+    text-decoration: none
+}
+
+.font {
+    color: black;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.form-side {
+    display: flex;
+}
+
+.input-box {
+    margin: 20px 0;
+    position: relative;
+}
+
+.input-box input {
+    width: 100%;
+    background: rgba(255, 255, 255, 0.2);
+    border: none;
+    padding: 12px 12px 12px 45px;
+    border-radius: 99px;
+    outline: 3px solid transparent;
+    transition: 0.3s;
+    font-size: 17px;
+    color: white;
+    font-weight: 600;
+}
+
+.input-box textarea {
+    width: 100%;
+    background: rgba(255, 255, 255, 0.2);
+    border: none;
+    padding: 12px 12px 0px 45px;
+    border-radius: 99px;
+    outline: 3px solid transparent;
+    transition: 0.3s;
+    font-size: 17px;
+    color: white;
+    font-weight: 600;
+}
+
+.submit-btn {
+    width: 100%;
+    padding: 10px;
+    background: #2F9CF4;
+    border: none;
+    border-radius: 99px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.submit-btn:hover {
+    background: #0B87EC;
+}
+
+.input-box::placeholder {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.input-box input:focus {
+    outline: 3px solid rgba(255, 255, 255, 0.3);
+}
+
+.input-box textarea:focus {
+    outline: 3px solid rgba(255, 255, 255, 0.3);
+}
+
+.input-box input::-ms-reveal {
+    filter: invert(100%);
+}
+
+.input-box i {
+    position: absolute;
+    left: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 20px;
+
+}
+
+/* Projects */
+.timeline-container {
+    position: relative;
+    padding-left: 40px;
+    margin: 50px 0;
+}
+
+.timeline-line {
+    position: absolute;
+    left: 15px;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: linear-gradient(to bottom, #255d8a57, #8aaad375, #254d8175);
+}
+
+.timeline-step {
+    position: relative;
+    margin-bottom: 50px;
+}
+
+.content {
+    padding-left: 20px;
+}

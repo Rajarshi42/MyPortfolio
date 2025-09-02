@@ -1,13 +1,24 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
+import '../node_modules/bootstrap/dist/css/bootstrap.css';
+import '../node_modules/bootstrap-icons/font/bootstrap-icons.css';
+
+import './portfolio.css';
 import reportWebVitals from './reportWebVitals';
+import { Navbar } from './components/portfolio/navbar';
+import Page1 from './components/portfolio/hero';
+import { Page2 } from './components/portfolio/about';
+import Page3 from './components/portfolio/skills';
+import { Page4 } from './components/portfolio/project';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Navbar />
+    <Page1 />
+    <Page2 />
+    <Page3 />
+    <Page4 />
   </React.StrictMode>
 );
 
