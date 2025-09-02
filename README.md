@@ -21,12 +21,12 @@ The site also includes a **contact form with validation**, providing visitors wi
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:![React](https://img.shields.io/badge/React-18-blue?logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?logo=bootstrap)
-![CSS](https://img.shields.io/badge/CSS-1572B6-blue)
-![HTML](https://img.shields.io/badge/HTML-E34F26-orange)
+- **Frontend : React, Bootstrap, HTML & CSS
 - **Hosting:** GitHub Pages  
-
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?logo=bootstrap)
+![CSS](https://img.shields.io/badge/CSS-5-blue)
+![HTML](https://img.shields.io/badge/HTML-6-orange)
 ---
 
 ## 📬 Contact
