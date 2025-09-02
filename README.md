@@ -28,7 +28,7 @@ The site also includes a **contact form with validation**, providing visitors wi
 ---
 
 ## 🔗 Live Demo
-👉 [View Portfolio](https://Rajarshi42.github.io/Myportfolio)
+👉 [View Portfolio](https://Rajarshi42.github.io/MyPortfolio)
 
 ---
 
