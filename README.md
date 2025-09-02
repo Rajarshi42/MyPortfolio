@@ -22,7 +22,7 @@ The site also includes a **contact form with validation**, providing visitors wi
 ---
 
 ## 📸 Preview
-![Portfolio Preview](./screenshot.png)  
+![Portfolio Preview](https://github.com/Rajarshi42/MyPortfolio/blob/main/public/mainpage.png)  
 
 
 ---
