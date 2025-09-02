@@ -1,5 +1,11 @@
-# [🌐 Personal Portfolio Website](https://rajarshi42.github.io/portfolio-site)
+# [🌐 Personal Portfolio Website](https://rajarshi42.github.io/MyPortfolio)
 
+---
+
+## 📸 Preview
+![Portfolio Preview](https://github.com/Rajarshi42/MyPortfolio/blob/main/public/mainpage.png)  
+
+---
 
 A modern and responsive **portfolio website** built using **React.js** and **Bootstrap CSS**.  
 It highlights my professional journey, skills, and projects with an intuitive design and interactive UI components.  
@@ -19,17 +25,6 @@ The site also includes a **contact form with validation**, providing visitors wi
 ## 🛠️ Tech Stack
 - **Frontend:** React.js, Bootstrap CSS  
 - **Hosting:** GitHub Pages  
-
----
-
-## 📸 Preview
-![Portfolio Preview](https://github.com/Rajarshi42/MyPortfolio/blob/main/public/mainpage.png)  
-
-
----
-
-## 🔗 Live Demo
-👉 [View Portfolio](https://Rajarshi42.github.io/MyPortfolio)
 
 ---
 
