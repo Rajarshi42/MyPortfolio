@@ -66,7 +66,7 @@ export function Page4() {
                                 transition={{ duration: 1 }}>
                                 <div className="content">
                                     <h4 className=" text-bg-dark rounded-pill p-1 text-start">
-                                        <a href="https://rajarshi42.github.io/MyPortfolio">
+                                        <a href="https://github.com/Rajarshi42/MyPortfolio">
                                             <span className="bi bi-github px-3 text-white"></span>
                                         </a>
                                         Portfolio Website
