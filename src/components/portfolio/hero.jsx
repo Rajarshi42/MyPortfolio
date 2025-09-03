@@ -41,9 +41,9 @@ export default function Page1() {
                             initial={{ opacity: 0 }}    // starting state
                             animate={{ opacity: 1 }}    // animate to this state
                             transition={{ duration: 1.5 }}    // duration of animation
-                            className="fw-bolder mb-0 text-black display-5 text-wrap"
+                            className="fw-bolder mb-0 text-black display-6 text-wrap "
                         >
-                            𝕽𝖆𝖏𝖆𝖗𝖘𝖍𝖎
+                           𝙍𝙖𝙟𝙖𝙧𝙨𝙝𝙞 
                         </motion.h1>
                     </span>
 

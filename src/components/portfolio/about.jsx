@@ -12,10 +12,10 @@ export function Page2() {
     }
 
     return (
-        <section className="page-2 py-5" id="About">
-            <div className="container">
+        <section className="page-2 " id="About">
+            <div className="container-fluid">
                 <motion.div
-                    className="row align-items-center g-5 flex-column flex-lg-row glass-about"
+                    className="row align-items-center g-5 flex-column flex-lg-row glass-about mx-3  "
                     initial={{ opacity: 0, y: 250 }}
                     whileInView={{ opacity: 1, y: 0 }}
                     viewport={{ once: true, amount: 0.01 }} // on 10% page veiw

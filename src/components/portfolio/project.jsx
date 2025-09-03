@@ -116,9 +116,10 @@ export function Page4() {
                     viewport={{ once: true, amount: 0.3 }} // trigger once when 50% visible
                     transition={{ duration: 1 }}>
                     <div className="glass-contact" style={{ maxWidth: "700px" }}>
-                        <p className=" text-body">* For business enquiry</p>
+                        
                         <h2 className="fw-bold fs-2 mb-4 text-center heading text-black">𝔾𝕖𝕥 𝕚𝕟 𝕥𝕠𝕦𝕔𝕙</h2>
-                        <form onSubmit={handleSubmit(submit)} className="p-3">
+                        <p className=" text-body px-4">* For business enquiry</p>
+                        <form onSubmit={handleSubmit(submit)}>
 
                             {/* Name */}
 

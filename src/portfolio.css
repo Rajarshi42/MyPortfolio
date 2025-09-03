@@ -1,16 +1,10 @@
-.logo {
-    background-image: url('../public/gallery1.jpg');
-    background-size: inherit;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
 
 .page-1,
 .page-2,
 .page-3,
 .page-4 {
 
-    background-image: url('../public/bgImg-5.png') ;
+    background-image: url('../public/bgImg-5.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -18,11 +12,13 @@
     color: white;
 }
 
+.btn-gradient{
+    padding-left: 10px;
+}
 .btn-gradient:hover {
     backdrop-filter: blur(95%);
     box-shadow: 0px 0px 30px rgba(13, 14, 13, 0.37);
-    border: 2px solid rgba(255, 255, 255, 0.18);
-    border-radius:50%;
+    border: 0px solid rgba(255, 255, 255, 0.18);
 }
 
 
@@ -46,12 +42,26 @@
     border: 0px solid rgba(255, 255, 255, 0.18); */
 }
 
-.glass-about,.glass-project,.glass-contact {
+.glass-project {
     padding: 40px;
     width: 100%;
     backdrop-filter: blur(10px);
     box-shadow: 0px 0px 30px rgba(102, 200, 230, 0.37);
     border: 0px solid rgba(255, 255, 255, 0.18);
+}
+.glass-about{
+    padding: 40px;
+    width: 80% center;
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 0px 30px rgba(102, 200, 230, 0.37);
+    border: 0px solid rgba(255, 255, 255, 0.18);
+}
+.glass-contact {
+    padding: 40px;
+    width: 100%;
+}
+.form-control{
+ backdrop-filter: blur(10px);   
 }
 
 .about-img {
